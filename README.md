@@ -83,9 +83,14 @@ git clone https://github.com/manika7105/BookVerse.git
 
 ---
 
-## 📞 Contact
+## 👨‍💻 Author
 
-*   **Author:** Manika Goel
-*   **LinkedIn:** www.linkedin.com/in/manika-goel-92201a286
-*   **GitHub:** https://github.com/manika7105
-*   **E-mail:** goelmanika07@gmail.com
+**Manika Goel**
+
+* GitHub: https://github.com/manika7105
+* LinkedIn: https://www.linkedin.com/in/manika-goel-92201a286
+* Email: goelmanika07@gmail.com
+
+---
+
+⭐ If you found this project useful, consider giving it a star on GitHub!
