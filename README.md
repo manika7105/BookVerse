@@ -1,6 +1,6 @@
 # 📚 BookVerse – Your Gateway to Endless Stories
 
-**BookVerse** is a fully responsive, single-page book website developed using **HTML**, **CSS**, and **JavaScript**. It provides users with an elegant and interactive platform to explore books, browse by genre, and subscribe for updates. This frontend-focused project showcases modern design principles, smooth animations, and a seamless user experience.
+**BookVerse** is a frontend web application designed to simulate a modern online bookstore experience. Users can browse book collections, explore categories, view featured books, and navigate through an interactive and responsive interface optimized for desktop and mobile devices.
 
 ---
 
@@ -23,6 +23,26 @@
 - ⚙️ **JavaScript (Vanilla)** – Interactivity and dynamic features
 - ⭐ **Font Awesome** – Icons for UI and social media
 - 🔤 **Google Fonts** – Modern, readable typography
+
+---
+
+## 📸 Project Screenshots
+
+### 🏠 Home Page
+
+![Home Page](screenshots/home-page.png)
+
+### 📚 Featured Books Section
+
+![Featured Books](screenshots/featured-books.png)
+
+### 👤 Login Section
+
+![Login Section](screenshots/login-section.png)
+
+### 🌙 Dark Mode
+
+![Dark Mode](screenshots/dark-mode.png)
 
 ---
 
